@@ -23,6 +23,6 @@ brew tap estafette/dev
 ## Formulas
 
 | Formula                 | Description                                                                       |
-| -------------------     | --------------------------------------------------------------------------------- |
+| ----------------------- | --------------------------------------------------------------------------------- |
 | estafette-dev           | The CLI for Estafette - The resilient and cloud-native CI/CD platform (dev track) |
 | gcp-network-planner-dev | A tool to help plan your network cidr ranges for Google Cloud Platform            |
