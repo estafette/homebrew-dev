@@ -1,12 +1,12 @@
 class GcpNetworkPlannerDev < Formula
     desc "The command-line interface for planning GCP networks (dev track)"
     homepage "https://estafette.io"
-    url "https://github.com/estafette/estafette-gcp-network-planner/releases/download/v0.1.6-extend-network-config-27/estafette-gcp-network-planner-v0.1.6-extend-network-config-27-darwin-amd64.zip"
-    sha256 "78ef89c789a38cd53bb1ac340359ac1f4aed5b4df0bf45be0ef040e6dc789338"
-    version "0.1.6-extend-network-config-27"
+    url "https://github.com/estafette/estafette-gcp-network-planner/releases/download/v0.1.6-extend-network-config-28/estafette-gcp-network-planner-v0.1.6-extend-network-config-28-darwin-amd64.zip"
+    sha256 "6e44599bef1d80dafc140c0e15311c6aa7660affcdbed998a37f79bf4767b02f"
+    version "0.1.6-extend-network-config-28"
 
   def install
-    bin.install "estafette-gcp-network-planner-v0.1.6-extend-network-config-27-darwin-amd64" => "gcp-network-planner-dev"
+    bin.install "estafette-gcp-network-planner-v0.1.6-extend-network-config-28-darwin-amd64" => "gcp-network-planner-dev"
   end
 
   test do
